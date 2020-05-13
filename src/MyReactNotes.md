@@ -4,4 +4,4 @@ App.jsL It is a js file that holds the root component for the React app and that
 
 App.js is the main component that is loaded into index.js, and then index.js loads/injects the virtual dom to the actual DOM. The registerServiceWorker.js is a file that helps with caching our resources so that our app runs smoothly over time on the web. Typica
 
-Nested Components: nested components are ...
+Nested Components: nested components are 
